@@ -3,7 +3,7 @@
 #                                           Coursera Capstone Project
 #                                           IBM Applied Data Science Capstone
 #                                     Opening a New Shopping Mall in VisakhaPatnam, India
-#                                                By: Sai Ganesh Dokala
+#                                                By: Hema Prasanth Naidu Mummana
 #                                                    July 2020
 
 
